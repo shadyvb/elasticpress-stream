@@ -1,5 +1,5 @@
 {
-	"name": "elasticpress-stream",
+	"name": "10up/elasticpress-stream",
 	"description": "ElasticPress Stream",
 	"version": "1.0.0",
 	"type": "wordpress-plugin",
@@ -13,7 +13,6 @@
 			"role": "Agency"
 		}
 	],
-  "minimum-stability": "dev",
 	"require": {
 		"php": ">=5.6"
 	}
